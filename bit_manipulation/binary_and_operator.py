@@ -50,3 +50,4 @@ if __name__ == "__main__":
     import doctest
 
     doctest.testmod()
+    >>> binary_and(21, 30)
